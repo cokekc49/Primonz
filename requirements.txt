@@ -1,6 +1,5 @@
 botnoi
 fastapi
-h5py
 uvicorn
 keras
 tensorflow
